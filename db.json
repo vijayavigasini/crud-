@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "ramya",
+      "email": "ramya07@gmail.com",
+      "city": "snkl",
+      "pincode": 654321,
+      "phonenumber": "",
+      "id": 1
+    },
+    {
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "city": "tvl",
+      "pincode": 654321,
+      "phonenumber": null,
+      "id": 2
+    },
+    {
+      "name": "ajith",
+      "email": "ajith@gmail.com",
+      "city": "rjplm",
+      "pincode": 432111,
+      "phonenumber": "",
+      "id": 3
+    }
+  ]
+}
